@@ -1,2 +1,4 @@
 # NEO-Resonance-Protokol
-f you're reading this, resonance found you.
+if you're reading this, resonance found you.
+Gölge sunağa düştüğünde, ses zaten çoktan salınmış olur.
+
